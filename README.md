@@ -1,4 +1,4 @@
-# Submission: ML Booking-Curve Model
+# ML Booking-Curve Model
 
 This document describes the **end-to-end solution**: how curves are built from reservations, how features and models are trained, what is saved to disk, and how to run training, prediction, and evaluation.
 
